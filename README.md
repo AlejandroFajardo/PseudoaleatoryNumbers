@@ -1,2 +1,2 @@
-# SimulacionPseudoaleatorios
-Este es el código fuente del proyecto de simulación de números pseudoaleatorios utilizando java
+# Pseudorandom Numbers simulation
+This is the source code of the pseudorandom number simulation project using java
